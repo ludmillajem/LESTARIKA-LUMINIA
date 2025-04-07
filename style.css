@@ -136,6 +136,10 @@ li.dropdown{
     
 }
 
+.italic{
+	font-style: italic;
+}
+
 ol{
     list-style-type: upper-roman;
     list-style-position: inside;
