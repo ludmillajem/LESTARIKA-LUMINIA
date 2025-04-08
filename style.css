@@ -21,6 +21,10 @@ body{
     animation-range: entry 0 cover 37%;
 }
 
+.text li{
+	text-align: justify;
+}
+
 .text-2 ol, .text-2 li, .text-2 h2{
     animation: appear 5s linear;
     animation-timeline: view();
