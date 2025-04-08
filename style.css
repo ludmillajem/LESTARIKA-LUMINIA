@@ -115,12 +115,14 @@ li .dropdown{
 .nav-bar{
     font-family: 'Font-Header';
     margin-bottom: 25px;
-    font-size: 20px;
 }
 
+.nav-bar a{
+	font-size: 15px;
+}
 @font-face {
     font-family: 'Font-Header';
-    src: url(Anja\ Eliane\ accent002.ttf);
+    src: url(AlmostTextual.ttf);
 }
 
 .home-container{
