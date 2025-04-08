@@ -74,7 +74,7 @@ li a,
     border-radius: 50px;
 }
 
-li.dropdown{
+li .dropdown{
     display: inline-block;
 }
 
@@ -144,11 +144,11 @@ ol{
     list-style-type: upper-roman;
     list-style-position: inside;
     margin-top: -20px;
+	padding: 5px;
 }
 
 ol li{
     font-size: 17px;
-    padding: 5px;
     margin-top: -5px;
 }
 
