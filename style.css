@@ -144,10 +144,10 @@ ol{
     list-style-type: upper-roman;
     list-style-position: inside;
     margin-top: -20px;
-	padding: 5px;
 }
 
 ol li{
+	padding: 5px;
     font-size: 17px;
     margin-top: -5px;
 }
